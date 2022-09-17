@@ -1,1 +1,2 @@
+import beautiful
 print("hello")
